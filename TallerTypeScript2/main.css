@@ -1,0 +1,30 @@
+
+h2{
+    text-align: center;
+}
+
+#titulo{
+    background-color:rgb(78, 175, 179);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#series {
+    margin-top: 10px;
+    margin-left:75px; 
+    margin-right:auto;
+    padding: 10px;
+}
+
+#promedioCol{
+    margin-left: 75px   ;
+}
+#deploy{
+    margin-left: 75px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+}
